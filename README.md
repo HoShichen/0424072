@@ -6,4 +6,5 @@
 # 笑笑
 ## :smile: 
 ## :date:
-https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg
+
+[![影片](https://www.youtube.com/watch?v=KfdmLk9TA0g-Y/0.jpg)](https://www.youtube.com/watch?v=KfdmLk9TA0g-Y "影片")
